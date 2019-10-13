@@ -1,0 +1,193 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Copy of MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<script src="js/jquery.js" type="text/javascript"></script><meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="description" content="Your description here" />
+<meta name="keywords" content="Your keywords here" />
+    <title>Untitled Page</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    
+</head>
+<body>
+  
+    <form id="form1" runat="server">
+  
+    <div id="wrap"><div class="container_16"><div class="block_5" id="header"><div id="headerBlock"><h1><a href="#" id="logo">
+        <img src="images/WebAppers_Loading.gif" alt="" 
+            style="height: 81px; width: 245px" /></a><span class="cBreak">&nbsp;</span>Business, 
+        Inc.</h1><span class="cBreak">&nbsp;</span> <h2>Complete Restaurant</h2></div></div>
+		
+		<div class="block_10 topmenu">
+		
+		<ul>
+				<li><a href="Home.aspx" class="item_active"><span>Home</span></a></li>
+				<li><a href="Menu.aspx"><span>Menu</span></a></li>
+				<li><a href="About Us.aspx"><span>About Us</span></a></li>
+				<li><a href="Contact Us.aspx"><span>Contact Us</span></a></li>
+				<li><a href="SiteMap.aspx"><span>SiteMap</span></a></li></ul>
+		<ul>
+		<li></li>
+		</ul>
+		</div>
+		
+		
+		<div class="block_15 splash"><div id="splash"><span class="jFlowControl">1</span>
+	<span class="jFlowControl">2</span>
+	<span class="jFlowControl">3</span>
+	</div>
+	
+	
+<div id="mySlides">
+
+<div>
+<span class="splashcontent">
+	<span class="splashTitle">Visit Us</span>
+	<span class="splashDescription">You can visit us at one our franchises<span class="clear">&nbsp;</span><span class="jFlowNext"> <strong>
+    Next »</strong></span><span class="clear">&nbsp;</span>
+	</span>
+</span>
+</div>
+
+
+<div>
+
+<span class="splashcontent">
+	<span class="splashTitle">HM Panchkula</span>
+	<span class="splashDescription">303 Sector 9 Panchkula Ph. 2569156, 2579888 <span class="clear">&nbsp;</span><span class="jFlowPrev"> <strong>
+    « Previous</strong></span>
+    <span class="clear">&nbsp;</span>
+	</span>
+</span>
+</div>
+
+<div>
+<span class="splashcontent">
+	<span class="splashTitle">HM 35</span>
+	<span class="splashDescription"> SCO 429-430 Sector 35C Chandigarh Ph. 2621551<span class="clear">&nbsp;</span><span class="jFlowPrev"> <strong>
+    « Previous</strong></span>
+    <span class="clear">&nbsp;</span>
+	</span>
+</span>
+</div>
+
+
+</div>
+
+</div><div class="MainContainer">
+		
+		
+<div class="block_5 sidebar">
+
+	
+	
+		<ul><li class="sideheadertab">
+				
+				<h2>
+<span>Menu</span>
+</h2>			
+
+<ul>
+
+				<li class="sidemenu">
+					<ul>
+				<li><a href="Menu.aspx?val=pizza vegetaria" target ><span>Pizza Vegetarian</span></a></li>
+				<li><a href="Masala Treats.aspx"><span>Pizza Non-Vegetarian</span></a></li>
+				<li><a href="South Indian.aspx"><span>Burgers</span></a></li>
+				<li><a href="Dragon's Belly.aspx"><span>Grilled Sandwiches</span></a></li>
+				<li><a href="Sweet Sensations.aspx"><span>Kathi Kababs</span></a></li>
+				<li><a href="Value Meal Deals.aspx"><span>Soups</span></a></li>
+				<li><a href="Combo Meals.aspx"><span>Sandwiches</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>Sizzlers</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>tandoori & mughlai vegetarian</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>tandoori & mughlai non vegetarian</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>salad</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>south indian</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>roti/naan/parantha</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>chinese</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>drinks</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>junior sundaes</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>twin peaks</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>ice cream flavours</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>outrageous sundaes</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>ice cream sodas</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>thick shakes</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>vegetarian</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>non-vegetarian</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>kiddie value meal</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>vegetarian combos</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>non-vegetarian combos</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>breads</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>croissont</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>tart</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>pastry</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>desserts</span></a></li>
+				<li><a href="Baker's Delight.aspx"><span>cakes</span></a></li>
+
+				
+				
+				</ul>
+					
+			</li></ul></li>
+			
+			
+			
+			
+			
+
+
+
+                        </ul>
+	
+	
+	
+	</div>
+	
+	
+	
+	
+	<div class="block_10 content">
+        <div class="pagecontent">
+                  Welcome To Hot Millions<br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               
+            
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    <br />
+                </p>
+                <p>
+                    &nbsp;</p>
+                <p>
+                    &nbsp;</p>
+            </asp:ContentPlaceHolder>
+        </div>
+	
+	</div>
+            </div><div class="clear">&nbsp;</div>
+	
+	
+	
+	<div class="footerContent"><div class="footerInner">© 2006 HotMillions Group. All rights reserved</a></div></div></div> </div>
+	
+	<script src="js/jquery.flow.1.2.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	jQuery("#splash").jFlow({slides:"#mySlides",controller:".jFlowControl",slideWrapper : "#jFlowSlide",selectedWrapper: "jFlowSelected",width: "360px",height: "300px",duration: 500,prev: ".jFlowPrev",next: ".jFlowNext"});jQuery("#mySlides").css("display","block");
+
+</script>
+    </form>
+</body>
+</html>
